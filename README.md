@@ -13,5 +13,5 @@
     
     O relógio também considera a correlação entre a expansão de áreas não naturais (como agricultura e urbanização)
     e o decaimento das áreas naturais, fornecendo estimativas precisas do tempo até que os biomas alcancem níveis
-    críticos de degradação ou desapareçam completamente. Esse projeto visa alertar sobre a urgência das ações de conservação,
-    fornecendo uma ferramenta visual para acompanhar o impacto da atividade humana nos ecossistemas naturais.
+    críticos de degradação ou desapareçam completamente. Esse projeto visa alertar sobre a urgência das ações 
+    de conservação,fornecendo uma ferramenta visual para acompanhar o impacto da atividade humana nos ecossistemas naturais.
